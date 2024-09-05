@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Chair",
+    "price": 50,
+    "image": "../../public/images/Recliner Chair Wood.png"
+  },
+  {
+    "id": 2,
+    "name": "Leather Sofa",
+    "price": 300,
+    "image": "../../public/images/Minimal Empty Rocking.png"
+  }
+]
